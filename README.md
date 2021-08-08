@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Hi there 👋, I am Akshat Kumar
+##### A Frontend Developer and Whitehat Hacker 
+![A Frontend Developer and Whitehat Hacker ](https://media.discordapp.net/attachments/862256689424105514/862272385334902804/20210625_155545_0000.png)
 
-<!--
-**Akshatk21/Akshatk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ABOUT ME**
+> Verified Discord Bot Developer
+> > Likes to make Freinds
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON / JS / HTML 
+
+- 🔭 I’m currently working on a discord bot 
+- 🌱 I’m currently learning C## 
+- 📫 Reach me via [DISCORD](https://discord.gg/axop) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshat21-ak)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/akshat21-ak)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akshat21-ak)  
+
+![Profile views](https://gpvc.arturio.dev/akshat21-ak)
