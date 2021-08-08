@@ -4,7 +4,7 @@
 
 **ABOUT ME**
 > Verified Discord Bot Developer
-> > Likes to make Freinds
+>  Likes to make Freinds
 
 
 Skills: PYTHON / JS / HTML 
